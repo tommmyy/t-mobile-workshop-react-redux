@@ -1,5 +1,6 @@
-1. Seznam se strukturou projektu
-	- refactor Routner/detail
-	- přidání combineReducers
-	- přidání selektorů
-	- místo mocku - volání api
+```
+git checkout counter
+```
+
+1. Přidejte akci, která způsobí reset čítače.
+2. Přidejte akci, která způsobí dekrementaci čítače.
